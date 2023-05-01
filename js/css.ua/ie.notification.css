@@ -1,0 +1,26 @@
+#ie-compatibility-notification {
+	background:no-repeat center top url(images/info_icon.gif) #FDF2AB;
+	padding:36px 12px 12px 12px;
+	border-bottom:1px solid #F5D805;
+	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px !important;
+	color:#444;
+	line-height: 1.1;
+	text-align: center;
+	
+	display:none;
+}
+
+#ie-compatibility-notification strong {
+	color:#111;
+}
+
+#ie-compatibility-notification a {
+	color:#E97A00 !important;
+	text-decoration:underline !important;
+}
+
+#ie-compatibility-notification a.ie-alternative {
+	font-weight:bold;
+}
